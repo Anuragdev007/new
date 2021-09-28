@@ -1,0 +1,23 @@
+.card {
+  border: none;
+}
+.col:hover {
+  box-shadow: 0px 0px 6px #ccc;
+  color: #008bdc;
+}
+.card p {
+  font-weight: 600;
+}
+p {
+  color: gray;
+}
+a {
+  color: grey;
+  font-weight: 500;
+  font-size: 17px;
+  text-decoration: none;
+}
+a:hover {
+  color: #008bdc;
+  text-decoration: none;
+}
